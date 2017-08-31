@@ -53,8 +53,6 @@ cd Scripts/activate
 ```
 Downloading requirements file
 
-   goto path where requirement.txt and type
-
 ```
 pip install -r requirements.txt
 ```
