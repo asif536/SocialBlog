@@ -83,4 +83,4 @@ Open your browser and type
 ```
 https://127.0.0.1:8000
 ```
-Now website ready to Running
+Now website ready to Run.
