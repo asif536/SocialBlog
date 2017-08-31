@@ -51,11 +51,9 @@ Goto Scripts directory type activate
 ```
 cd Scripts/activate
 ```
-Installing requirement file
+Downloading requirements file
 
-Make sure your computer is connect to internet
-
-Goto path where requirement.txt and type
+   goto path where requirement.txt and type
 
 ```
 pip install -r requirements.txt
