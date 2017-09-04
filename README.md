@@ -77,6 +77,6 @@ python manage.py runserver
 Open your browser and type
 
 ```
-https://127.0.0.1:8000
+http://127.0.0.1:8000
 ```
 Now website ready to Run.
