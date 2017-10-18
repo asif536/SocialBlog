@@ -18,7 +18,7 @@ from .forms import PostForm
 from .models import Post
 
 
-
+#funtion for Creating Post
 def post_create(request):
 	if not request.user.is_authenticated():
 		return redirect("login")
@@ -30,12 +30,12 @@ def post_create(request):
 		instance = form.save(commit=False)
 		instance.user = request.user
 		instance.save()
-		# message success
+		# success message
 		messages.success(request, "Successfully Created")
 		return HttpResponseRedirect(instance.get_absolute_url())
 	context = {
 		"form": form,
-	}
+	         }
 	return render(request, "post_form.html", context)
 
 def post_detail(request, slug=None):
