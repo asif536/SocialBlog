@@ -6,9 +6,9 @@ This is Social Blog Website Made by Using Python Using django 1.9
 
 Just Click on clone or download button and download the repo and extract it.
 
-### Prerequisites
+### Dependencies
 
-Make you sure your computer have installed following Prerequisites.
+Make you sure your computer have installed following Dependencies.
 
 ```
 Python 2.7.11
