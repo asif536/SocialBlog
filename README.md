@@ -19,7 +19,7 @@ vertualenv
 
 ```
 
-### Installing
+### Setup to run
 
 Extract zip file in your computer
 
