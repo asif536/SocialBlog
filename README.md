@@ -46,12 +46,12 @@ Goto Scripts directory type activate
 ```
 cd Scripts/activate
 ```
-Downloading requirements file
+Downloading requirements
 
 ```
 pip install -r requirements.txt
 ```
-It will install all requirements file 
+It will install all requirements.
 
 ### Creating LocalHost
 
